@@ -2,7 +2,7 @@
 
 ## No RCL Protection!
 
-YouTube Video: https://youtu.be/
+YouTube Video: https://youtu.be/ZBCaNIfrxsw
 
 Blazor Puzzle Home Page: https://blazorpuzzle.com
 
